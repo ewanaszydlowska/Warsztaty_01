@@ -12,7 +12,7 @@ public class Zgadywanie_liczb_2 {
 		int max = 1000;
 		Scanner sc = new Scanner(System.in);
 		String result = "";
-		int counter = 0;
+		int counter = 1;
 				
 		do {
 		
@@ -26,7 +26,7 @@ public class Zgadywanie_liczb_2 {
 			if (result.equals("Za mało")) {
 				min = guess;
 			}
-			if (counter >= 10) {
+			if (counter > 10) {
 				System.out.println("Nie oszukuj!");
 			}
 			counter++;
