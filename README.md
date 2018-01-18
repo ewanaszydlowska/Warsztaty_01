@@ -1,7 +1,7 @@
 # Warsztaty_01
 Simple console games: 
 
-Number guessing game (when number is picked by a computer).
+Number guessing game (when number is picked by a computer). <br />
 Lottery simulator
 Number guessing game (when number is picked by a user).
 Polyhedron dice simulator
